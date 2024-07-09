@@ -1,0 +1,6 @@
+{
+  "ip_servidor_central": "localhost",
+  "porta_servidor_central": 10048,
+  "nome": "servidorCentral",
+  "pinout": []
+}

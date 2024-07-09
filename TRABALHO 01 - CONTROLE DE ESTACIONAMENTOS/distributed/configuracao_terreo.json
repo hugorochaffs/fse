@@ -1,0 +1,62 @@
+{
+  "ip_servidor_central": "localhost",
+  "porta_servidor_central": 10048,
+  "nome": "Terreo",
+  "pinout": [
+    {
+      "name": "ENDERECO_01",
+      "gpio": 22,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "ENDERECO_02",
+      "gpio": 26,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "ENDERECO_03",
+      "gpio": 19,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "SENSOR_DE_VAGA",
+      "gpio": 18,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SINAL_DE_LOTADO_FECHADO",
+      "gpio": 27,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "SENSOR_ABERTURA_CANCELA_ENTRADA",
+      "gpio": 23,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SENSOR_FECHAMENTO_CANCELA_ENTRADA",
+      "gpio": 24,
+      "direction": "INPUT"
+    },
+    {
+      "name": "MOTOR_CANCELA_ENTRADA",
+      "gpio": 10,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "SENSOR_ABERTURA_CANCELA_SAIDA",
+      "gpio": 25,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SENSOR_FECHAMENTO_CANCELA_SAIDA",
+      "gpio": 12,
+      "direction": "INPUT"
+    },
+    {
+      "name": "MOTOR_CANCELA_SAIDA",
+      "gpio": 17,
+      "direction": "OUTPUT"
+    }
+  ]
+}
